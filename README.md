@@ -1,4 +1,4 @@
-# AChatWithSaudade
+# A Chat With Saudade
 
 A Chat With Saudade is a quiet, lyrical dialogue between a girl named Mia and an unseen presence that has shaped her life in ways she’s only beginning to understand.
 
@@ -8,7 +8,7 @@ Blurring the lines between presence and absence, A Chat With Saudade explores th
 
 Developed in Unreal Engine. Available in English and Portuguese. 
 
-![AChatWithSaudade_Screenshot1](https://github.com/user-attachments/assets/26954fc7-1bb2-453a-992e-f9405beed276)
+![AChatWithSaudade_Screenshot1](https://github.com/user-attachments/assets/b9135a84-9bfd-4923-9e4e-69cec8a10ca2)
 
 ![AChatWithSaudade_Screenshot2](https://github.com/user-attachments/assets/9b9d9812-218a-4936-adb8-64da52d36a05)
 
